@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/menu/drinking_menu.xml",
+        "source": "/Users/travis/UHHackathon/app/src/main/res/menu/drinking_menu.xml"
+    },
+    {
         "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/menu/weightpopupfile.xml",
         "source": "/Users/travis/UHHackathon/app/src/main/res/menu/weightpopupfile.xml"
     },
