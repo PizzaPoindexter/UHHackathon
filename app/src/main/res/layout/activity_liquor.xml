@@ -7,6 +7,37 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="hackathon.pizzapoindexter.uhhackathon.Liquor">
+    tools:context="hackathon.pizzapoindexter.uhhackathon.NewDrink">
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Shot of Whiskey"
+        android:onClick="whiskey"/>
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="75dp"
+        android:layout_centerHorizontal="true"
+        android:text="Shot of Vodka"
+        android:onClick="vodka"/>
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:layout_centerHorizontal="true"
+        android:text="Shot of Rum"
+        android:onClick="vodka"/>
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="225dp"
+        android:layout_centerHorizontal="true"
+        android:text="Margarita"
+        android:onClick="margarita"/>
 
 </RelativeLayout>

@@ -13,27 +13,23 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:text="Beer (12oz)"/>
+        android:text="Beer (12oz)"
+        android:onClick="newBeer"/>
 
     <Button
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="75dp"
         android:layout_centerHorizontal="true"
-        android:text="Wine (5oz)"/>
+        android:text="Wine (5oz)"
+        android:onClick="wine"/>
 
     <Button
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="150dp"
         android:layout_centerHorizontal="true"
-        android:text="Liquor (1.5oz)"/>
-
-    <Button
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="225dp"
-        android:layout_centerHorizontal="true"
-        android:text="Add your own" />
+        android:text="Liquor (1.5oz)"
+        android:onClick="newLiquor"/>
 
 </RelativeLayout>

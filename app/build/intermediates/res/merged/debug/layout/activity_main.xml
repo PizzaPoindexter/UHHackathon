@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:text="Let's go out Tonight!!!"
-        android:textSize="35sp"/>
+        android:textSize="30sp"/>
 
     <Button
         android:layout_width="250dp"

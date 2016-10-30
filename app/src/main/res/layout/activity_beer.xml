@@ -9,4 +9,19 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="hackathon.pizzapoindexter.uhhackathon.Beer">
 
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Regular beer"
+        android:onClick="beer"/>
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="75dp"
+        android:layout_centerHorizontal="true"
+        android:text="Light beer"
+        android:onClick="beerLite"/>
+
 </RelativeLayout>

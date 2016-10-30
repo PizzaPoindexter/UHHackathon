@@ -12,7 +12,7 @@
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="DrinkingBuddy"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity android:name="hackathon.pizzapoindexter.uhhackathon.MainActivity" >
@@ -28,6 +28,10 @@
             android:label="@string/title_activity_drinking"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="hackathon.pizzapoindexter.uhhackathon.NewDrink" />
+        <activity android:name="hackathon.pizzapoindexter.uhhackathon.Beer" />
+        <activity android:name="hackathon.pizzapoindexter.uhhackathon.Wine" />
+        <activity android:name="hackathon.pizzapoindexter.uhhackathon.LiquorView" />
+        <activity android:name="hackathon.pizzapoindexter.uhhackathon.AddOwn" />
     </application>
 
 </manifest>

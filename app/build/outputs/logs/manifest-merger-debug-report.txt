@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:3:5-52
 		INJECTED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:2:1-26:12
 		INJECTED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:5:5-24:19
+ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:5:5-28:19
 MERGED from [com.android.support:appcompat-v7:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/AndroidManifest.xml:23:5-20
@@ -34,7 +34,7 @@ MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackat
 MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:8:9-38
 	android:supportsRtl
 		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:9:9-35
 	android:allowBackup
@@ -70,9 +70,25 @@ ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:19:9-22:59
 	android:name
 		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:20:13-45
 activity#hackathon.pizzapoindexter.uhhackathon.NewDrink
-ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:23:9-55
+ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:23:9-46
 	android:name
 		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:23:19-43
+activity#hackathon.pizzapoindexter.uhhackathon.Beer
+ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:24:9-42
+	android:name
+		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:24:19-39
+activity#hackathon.pizzapoindexter.uhhackathon.Wine
+ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:25:9-42
+	android:name
+		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:25:19-39
+activity#hackathon.pizzapoindexter.uhhackathon.LiquorView
+ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:26:9-48
+	android:name
+		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:26:19-45
+activity#hackathon.pizzapoindexter.uhhackathon.AddOwn
+ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:27:9-53
+	android:name
+		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:27:19-41
 uses-sdk
 INJECTED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/AndroidManifest.xml:21:5-23:78

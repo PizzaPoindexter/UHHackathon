@@ -24,7 +24,12 @@ public class MainActivity extends AppCompatActivity {
     public void startDrinking(View view){
         SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
         settings.edit().putString("Calories", "0").apply();
-        settings.edit().putString("BAC", "0");
+        settings.edit().putString("BAC", "0").apply();
+        settings.edit().putString("noBeers", "0").apply();
+        settings.edit().putString("noWine", "0").apply();
+        settings.edit().putString("noLiquor", "0").apply();
+        settings.edit().putString("noMargs", "0").apply();
+
         Intent intent = new Intent(this, DrinkingActivity.class);
         startActivity(intent);
     }
