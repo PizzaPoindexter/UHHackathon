@@ -1,0 +1,18 @@
+Hard Coding Alcohol
+Hard Liquor is 1.5 fl oz per shot
+	ABV		Cal
+Beer :  4.5 		154
+Light Beer: 4.1	104
+Wine: 	11.6		123
+Whiskey: 40		105
+Vodka:	  40		96
+Rum: 	 37.5		96
+Sake:    15		58.5
+Brandy:  40		123
+Gin:      40 		109.5
+Bourbon: 13.3 	97
+Tequila: 40 		103.5
+Margarita: 33.3 	455
+Long Island Ice Tea : 22   138
+Martini: 32		240
+Cosmopolitan: 27.3     213
