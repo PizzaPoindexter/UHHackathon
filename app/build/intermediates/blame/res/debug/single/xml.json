@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/xml/pref_general.xml",
+        "source": "/Users/travis/UHHackathon/app/src/main/res/xml/pref_general.xml"
+    },
+    {
+        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/xml/pref_headers.xml",
+        "source": "/Users/travis/UHHackathon/app/src/main/res/xml/pref_headers.xml"
+    },
+    {
+        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/xml/pref_data_sync.xml",
+        "source": "/Users/travis/UHHackathon/app/src/main/res/xml/pref_data_sync.xml"
+    },
+    {
+        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/xml/pref_notification.xml",
+        "source": "/Users/travis/UHHackathon/app/src/main/res/xml/pref_notification.xml"
+    }
+]
