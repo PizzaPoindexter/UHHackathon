@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:3:5-52
 		INJECTED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml
@@ -14,13 +14,23 @@ ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:5:5-20:19
+ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:5:5-24:19
 MERGED from [com.android.support:appcompat-v7:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-beta1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:23.4.0] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-beta1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:25:5-20
 	android:label
@@ -52,9 +62,17 @@ ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:18:9-54
 	android:name
 		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:18:19-51
 activity#hackathon.pizzapoindexter.uhhackathon.DrinkingActivity
-ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:19:9-63
+ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:21:13-60
+	android:theme
+		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:19:19-51
+		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:20:13-45
+activity#hackathon.pizzapoindexter.uhhackathon.NewDrink
+ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:23:9-55
+	android:name
+		ADDED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml:23:19-43
 uses-sdk
 INJECTED from /Users/travis/UHHackathon/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/AndroidManifest.xml:21:5-23:78
@@ -63,6 +81,17 @@ MERGED from [com.android.support:support-vector-drawable:24.0.0-beta1] /Users/tr
 MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:animated-vector-drawable:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-beta1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:design:23.4.0] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:appcompat-v7:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-beta1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:24.0.0-beta1] /Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/AndroidManifest.xml:21:5-23:54
 	tools:overrideLibrary

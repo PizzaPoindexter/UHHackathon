@@ -48,12 +48,12 @@
         "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
         "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
@@ -72,10 +72,6 @@
         "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -84,12 +80,12 @@
         "source": "/Users/travis/UHHackathon/app/src/main/res/drawable-hdpi/ic_notifications_black_24dp.png"
     },
     {
-        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
@@ -98,6 +94,10 @@
     {
         "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
         "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
@@ -116,12 +116,12 @@
         "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
         "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
@@ -160,16 +160,16 @@
         "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
         "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png",
         "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
-        "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/Users/travis/UHHackathon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/travis/UHHackathon/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",

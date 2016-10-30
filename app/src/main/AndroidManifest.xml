@@ -16,7 +16,15 @@
             </intent-filter>
         </activity>
         <activity android:name=".SettingsActivity" />
-        <activity android:name=".DrinkingActivity"></activity>
+        <activity
+            android:name=".DrinkingActivity"
+            android:label="@string/title_activity_drinking"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".NewDrink" />
+        <activity android:name=".Beer" />
+        <activity android:name=".Wine" />
+        <activity android:name=".Liquor" />
+        <activity android:name=".AddOwn"></activity>
     </application>
 
 </manifest>

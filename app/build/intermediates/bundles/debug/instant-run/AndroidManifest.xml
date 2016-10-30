@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="15"
-        android:targetSdkVersion="24" />
+        android:targetSdkVersion="23" />
 
     <application
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
@@ -23,7 +23,11 @@
             </intent-filter>
         </activity>
         <activity android:name="hackathon.pizzapoindexter.uhhackathon.SettingsActivity" />
-        <activity android:name="hackathon.pizzapoindexter.uhhackathon.DrinkingActivity" />
+        <activity
+            android:name="hackathon.pizzapoindexter.uhhackathon.DrinkingActivity"
+            android:label="@string/title_activity_drinking"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="hackathon.pizzapoindexter.uhhackathon.NewDrink" />
     </application>
 
 </manifest>

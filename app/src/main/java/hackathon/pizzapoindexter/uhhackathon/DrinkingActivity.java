@@ -2,6 +2,7 @@ package hackathon.pizzapoindexter.uhhackathon;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -24,14 +25,21 @@ public class DrinkingActivity extends AppCompatActivity {
         SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
 
 
-        calories = (TextView)findViewById(R.id.calories);
-        bac = (TextView)findViewById(R.id.bac);
+        calories = (TextView) findViewById(R.id.calories);
+        bac = (TextView) findViewById(R.id.bac);
 
         calories.setText(settings.getString("Calories", null));
         bac.setText(settings.getString("BAC", null));
-        //FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab); //button will lead to addDrink
-        //fab.setImageResource(R.drawable.ic_notifications_black_24dp);
+
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                newDrink(view);
+            }
+        });
     }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
@@ -53,4 +61,12 @@ public class DrinkingActivity extends AppCompatActivity {
         startActivity(intent);
         return true;
     }
+
+    public void newDrink(View view){
+        Intent intent = new Intent(this, NewDrink.class);
+        startActivity(intent);
+    }
+
 }
+
+
